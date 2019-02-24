@@ -141,6 +141,9 @@ header {
 .text-secondary {
   color: #089fb9; }
 
+#secondary-small {
+  font-size: 3rem; }
+
 main {
   padding: 4rem;
   min-height: calc(100vh - 60px); }
