@@ -59,3 +59,9 @@ $background-opacity: 0.9;
     @content;
   }
 }
+
+@mixin Landscape {
+  @media screen and (max-height: 500px) {
+    @content;
+  }
+}
